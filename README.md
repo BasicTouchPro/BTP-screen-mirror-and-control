@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/BTP.Screen.Control_0.2.0_x64-setup.exe">
+  <a href="https://github.com/BasicTouchPro/BTP-screen-mirror-and-control/releases/latest/download/BTP.Screen.Control_0.2.0_x64-setup.exe">
     <img src="https://img.shields.io/badge/Download-Windows%20Installer-00C9D8?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
   </a>
 </p>
@@ -71,7 +71,7 @@ The following screenshots show the application's interface and main features.
 
 Download the installer for Windows:
 
-**[Download BTP Screen Control v0.2.0 (.exe)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/BTP.Screen.Control_0.2.0_x64-setup.exe)**
+**[Download BTP Screen Control v0.2.0 (.exe)](https://github.com/BasicTouchPro/BTP-screen-mirror-and-control/releases/latest/download/BTP.Screen.Control_0.2.0_x64-setup.exe)**
 
 - **Application:** BTP Screen Control
 - **Version:** 0.2.0
