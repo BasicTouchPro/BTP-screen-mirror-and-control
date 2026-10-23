@@ -223,17 +223,34 @@ Bug reports, suggestions, and feedback are welcome. Please include your Windows 
 
 ## Developer
 
-**BasicTouchPro**
+<p align="center">
+  <strong>Developed with care by BasicTouchPro</strong>
+</p>
 
-- YouTube: [@BasicTouchPro](https://www.youtube.com/@BasicTouchPro)
-- Telegram: [@BasicTouchPro](https://t.me/BasicTouchPro)
+<p align="center">
+  <a href="https://www.youtube.com/@BasicTouchPro">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
+  </a>
+  &nbsp;
+  <a href="https://t.me/BasicTouchPro">
+    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join on Telegram">
+  </a>
+</p>
+
+---
 
 ## License
 
-This repository currently includes an MIT License notice. Review the `LICENSE` file and the licenses of all bundled third-party components before redistributing the application.
+This project includes an MIT License notice.
+Please review the [LICENSE](./LICENSE) file and the
+applicable licenses of all bundled third-party components
+before redistributing the application.
 
 ---
 
 <p align="center">
-  Made with care by <a href="https://www.youtube.com/@BasicTouchPro">BasicTouchPro</a>
+  Made with care by
+  <a href="https://www.youtube.com/@BasicTouchPro">
+    <strong>BasicTouchPro</strong>
+  </a>
 </p>
