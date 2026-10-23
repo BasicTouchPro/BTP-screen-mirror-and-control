@@ -1,0 +1,37 @@
+TouchBridge - third-party notices
+=================================
+
+TouchBridge application source is distributed under the MIT License; see LICENSE.
+Developer credit: Developed by @BasicTouchPro.
+
+Principal third-party components:
+
+* Tauri 2.12.5 and tauri-build 2.7.4 - Apache-2.0 or MIT
+  https://github.com/tauri-apps/tauri
+* @tauri-apps/api and @tauri-apps/cli 2.12.4 - Apache-2.0 or MIT
+  https://github.com/tauri-apps/tauri
+* @tauri-apps/plugin-opener 2.7.2 and tauri-plugin-opener 2.7.2 - Apache-2.0 or MIT
+  https://github.com/tauri-apps/plugins-workspace
+* React and React DOM 19.3.1 - MIT
+  https://github.com/facebook/react
+* Vite 6.4.5 and @vitejs/plugin-react 4.7.0 - MIT
+  https://github.com/vitejs/vite
+* TypeScript 5.7.3 - Apache-2.0
+  https://github.com/microsoft/TypeScript
+* lucide-react 0.468.0 - ISC
+  https://github.com/lucide-icons/lucide
+* @zxing/browser 0.2.1 and @zxing/library 0.23.0 - MIT
+  https://github.com/zxing-js/browser
+* btleplug 0.11.8 - MIT
+  https://github.com/deviceplug/btleplug
+* scrcpy Windows distribution - Apache-2.0
+  https://github.com/Genymobile/scrcpy
+* Android Platform Tools (ADB) - Android SDK license terms and applicable
+  component notices. Review Google's current terms before use or redistribution:
+  https://developer.android.com/studio/terms
+
+The precise versions resolved by the package managers are recorded in
+package-lock.json and src-tauri/Cargo.lock after dependency installation.
+Bundled binary distributions may contain additional third-party components.
+Retain their original license files and notices; this summary does not replace
+or modify those terms.
