@@ -84,13 +84,13 @@ For other versions and release information, visit the [Releases page](https://gi
 
 ## System Requirements
 
-- A Windows computer or laptop.
-- A compatible 64-bit Windows environment.
-- An Android device for screen mirroring and control.
-- USB debugging enabled for USB connections, or Wireless Debugging configured for supported wireless connections.
-- Required application resources, including ADB, scrcpy, and their supporting files.
+- **Operating System:** Windows 10 or Windows 11 (64-bit).
+- **Device:** Desktop PC or laptop.
+- **Phone:** Compatible Android device.
+- **Connection:** USB or supported wireless connection.
+- **Requirements:** ADB and the required scrcpy resources included with the application.
 
-The current application build targets Windows x64. Windows 10 or later is specified by the project documentation; compatibility should be verified on each supported Windows version.
+**Compatibility:** The application has been tested on Windows 10 and Windows 11.
 
 ## Installation
 
